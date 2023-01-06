@@ -1,9 +1,9 @@
 # Hi there 👋
 
-📺 I’m working for SSW on TV team
+📺 I’m a member of SSW TV team
 
-🎥 I’m produce video in Hangzhou
+🎥 I’m produce video in SSW Hangzhou office
 
-📫 Find me at https://www.ssw.com.au/people/
+📫 Find me at https://www.ssw.com.au/people/sofie-hong
 
 😀 Ask me about video production and useful video effect plug-ins
