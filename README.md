@@ -12,4 +12,4 @@
 
 🏆 Fun fact: I was the champion of table tennis at the municipal level  (When I was in 15 🤣)
 
-[![Sofie's github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
+[![Sofie's github stats](https://github-readme-stats.vercel.app/api?username=SofieHong&theme=dark)](https://github.com/SofieHong/github-readme-stats)
